@@ -5,6 +5,7 @@ void main()
     printf("this is  arpita");
     printf("this is sushma");
     printf("sushma");
-    printf("santosh Kariyavar");   
+    printf("santosh Kariyavar");  
+    printf("subba reddy"); 
 }
 
